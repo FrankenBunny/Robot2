@@ -1,4 +1,4 @@
-package RobotClasses;
+package src.RobotClasses;
 
 /**
  * Class: RobotClasses.Position.

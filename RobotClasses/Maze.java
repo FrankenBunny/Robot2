@@ -1,4 +1,4 @@
-package RobotClasses; /**
+/**
  * Class: RobotClasses.Maze.
  *
  * Knows information regarding the Mazes structure, location of
@@ -6,6 +6,7 @@ package RobotClasses; /**
  * information whether it is possible or not to move to a given
  * RobotClasses.Position.
  */
+package src.RobotClasses;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Scanner;
